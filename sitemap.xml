@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://texify.qufy.me/posts/my-first-post/</loc>
-    <lastmod>2022-08-06T10:33:53-04:00</lastmod>
-  </url><url>
-    <loc>https://texify.qufy.me/posts/</loc>
-    <lastmod>2022-08-06T10:33:53-04:00</lastmod>
-  </url><url>
-    <loc>https://texify.qufy.me/</loc>
-    <lastmod>2022-08-06T10:33:53-04:00</lastmod>
-  </url><url>
-    <loc>https://texify.qufy.me/series/</loc>
-  </url><url>
-    <loc>https://texify.qufy.me/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://texify.qufy.me/</loc><lastmod>2022-08-06T10:33:53-04:00</lastmod></url><url><loc>https://texify.qufy.me/post/my-first-post/</loc><lastmod>2022-08-06T10:33:53-04:00</lastmod></url><url><loc>https://texify.qufy.me/post/</loc><lastmod>2022-08-06T10:33:53-04:00</lastmod></url><url><loc>https://texify.qufy.me/archives/</loc><lastmod>2019-05-28T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/css/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/html/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/markdown/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/post/markdown-syntax/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/series/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/series/themes-guide/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/privacy/</loc><lastmod>2019-03-10T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/post/rich-content/</loc><lastmod>2019-03-10T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/shortcodes/</loc><lastmod>2019-03-10T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/post/placeholder-text/</loc><lastmod>2019-03-09T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/text/</loc><lastmod>2019-03-09T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/post/math-typesetting/</loc><lastmod>2019-03-08T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/emoji/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/post/emoji-support/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/about/</loc><lastmod>2019-02-28T00:00:00+00:00</lastmod></url><url><loc>https://texify.qufy.me/tags/index/</loc></url></urlset>
