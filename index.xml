@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TeXify</title>
+    <link>https://texify.qufy.me/</link>
+    <description>Recent content on TeXify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@example.com (author)</managingEditor>
+    <webMaster>me@example.com (author)</webMaster>
+    <lastBuildDate>Sat, 06 Aug 2022 10:33:53 -0400</lastBuildDate><atom:link href="https://texify.qufy.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://texify.qufy.me/posts/my-first-post/</link>
+      <pubDate>Sat, 06 Aug 2022 10:33:53 -0400</pubDate>
+      <author>me@example.com (author)</author>
+      <guid>https://texify.qufy.me/posts/my-first-post/</guid>
+      
+      <description>&lt;p&gt;This is a test of my first hugo site&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
